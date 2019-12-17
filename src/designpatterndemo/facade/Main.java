@@ -6,6 +6,7 @@ public class Main {
 		//replace number to check company
 		String number = "9511722732";
         OperatorCapturingFacade numberCapturingFacade = new OperatorCapturingFacade();
+
         numberCapturingFacade.captureNumber(number);
          
     }

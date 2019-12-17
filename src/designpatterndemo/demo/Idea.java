@@ -1,5 +1,6 @@
 package designpatterndemo.demo;
 
+
 public class Idea implements Operator{
 
 	@Override

@@ -1,5 +1,6 @@
 package designpatterndemo.demo;
 
+
 public class Airtel implements Operator{
 
 	@Override
